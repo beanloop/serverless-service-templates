@@ -1,0 +1,21 @@
+
+# package directories
+node_modules
+jspm_packages
+
+# Serverless directories
+.serverless
+
+# Webpack directories
+.webpack
+
+*.log
+npm-debug.log
+pids
+*.pid
+*.seed
+**/.idea
+.DS_Store
+.tmp
+.env
+tmp

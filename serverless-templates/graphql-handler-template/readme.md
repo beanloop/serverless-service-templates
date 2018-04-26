@@ -1,0 +1,1 @@
+# GraphQl-handler (Lambda Function)

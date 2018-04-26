@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "skipLibCheck": true,
+    "lib": [
+      "es5",
+      "es2015.promise",
+      "es2016.array.include",
+      "es2017",
+      "esnext.asynciterable",
+    ]
+  }
+}
